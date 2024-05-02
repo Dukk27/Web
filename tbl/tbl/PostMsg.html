@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        #msgForm {
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: flex-end; /* Canh chỉnh các phần tử xuống dưới cùng */
+        }
+
+        #txtMessage {
+            flex: 1; /* Phần tử này sẽ mở rộng để điền vào không gian còn lại */
+            padding: 16px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+        }
+
+        #btnSend {
+            width: auto; /* Kích thước tự động dựa trên nội dung */
+            padding: 16px 20px; /* Điều chỉnh padding cho phù hợp */
+            box-sizing: border-box;
+        }
+
+        /* Responsive CSS */
+        @media screen and (min-width: 768px) {
+            #txtMessage {
+                width: 70%;
+                margin-right: 10px;
+                margin-bottom: 0;
+            }
+
+            #btnSend {
+                width: 30%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+        <form id="msgForm" action="SendMsg.aspx" method="post" onsubmit="return valid()">
+            <input type="text" name="txtMessage" id="txtMessage" placeholder="Type your message here...">
+            <input type="submit" value="Send" id="btnSend">
+        </form>
+
+        <script>
+            function valid() {
+                let msg = document.getElementById("txtMessage").value.trim();
+                if (msg == "") {
+                    return false;
+                } else {
+                    msg = msg.replace(/&/g, "&amp;").replace(/>/g, "&gt;").replace(/</g, "&lt;").replace(/"/g, "&quot;");
+                    document.getElementById("txtMessage").value = msg;
+                    console.log(msg);
+                    return true;
+                }
+            }
+        </script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+﻿#body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    min-height: 500px;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
+
+.khungBao h2 {
+    display: flex;
+    justify-content: center;
+    font-family: Roboto, sans-serif;
+    margin-bottom: 20px;
+}
+
+/*#Ten {
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding-left: 7px;
+}
+
+#Email {
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding-left: 7px;
+}
+
+#SDT {
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding-left: 7px;
+}
+
+#Pass {
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding-left: 7px;
+}
+
+#ComfirmPass {
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding-left: 7px;
+}*/
+
+/*#Email1 {
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding-left: 7px;
+}*/
+
+.btnDK_DN {
+    margin-top: 20px;
+    width: 100%;
+    height: 30px;
+    background: black;
+    color: white;
+    border: none;
+}
+
+.iptInfor {
+    margin-bottom: 15px;
+}
+
+.input-text {
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding-left: 7px;
+}
+
+.errorText {
+    font-size: 14px;
+    margin-top: 10px;
+}

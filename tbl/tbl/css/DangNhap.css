@@ -1,0 +1,62 @@
+﻿
+#body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    min-height: 500px;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
+
+.KhungBao h2 {
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    font-family: Roboto, sans-serif;
+}
+
+#formdangnhap {
+    max-width: 400px;
+    flex-grow: 1;
+    padding: 30px 30px 40px;
+    box-shadow: rgb(0,0,0,0.8);
+}
+
+.nhapInfor {
+}
+
+#dnEmail {
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border: 1px solid black;
+    padding-left: 7px;
+}
+
+#dnPass {
+    margin-bottom: 30px;
+    width: 100%;
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding-left: 7px;
+}
+
+.btnDK_DN {
+    margin-top: 20px;
+    width: 100%;
+    height: 30px;
+    background: black;
+    color: white;
+    border: none;
+}
+
+.btnDK_DN:hover {
+    cursor: pointer;
+}
+
+.SangTrangDangKy{
+    margin-top: 10px;
+}

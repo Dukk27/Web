@@ -1,0 +1,448 @@
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\tbl.dll.config
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\tbl.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\tbl.pdb
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\csc.exe
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\csc.exe.config
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\csc.rsp
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\csi.exe
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\csi.exe.config
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\csi.rsp
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.AppContext.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Console.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.IO.Compression.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Security.Claims.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.ValueTuple.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\vbc.exe
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\vbc.exe.config
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\vbc.rsp
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\VBCSCompiler.exe
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\obj\Debug\tbl.csprojAssemblyReference.cache
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\obj\Debug\tbl.csproj.CoreCompileInputs.cache
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\obj\Debug\tbl.csproj.CopyComplete
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\obj\Debug\tbl.dll
+C:\Users\hahoa\Documents\noi chua bai tap\webprogramming\tbl\tbl\obj\Debug\tbl.pdb
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\tbl.dll.config
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\tbl.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\tbl.pdb
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\csc.exe
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\csc.exe.config
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\csc.rsp
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\csi.exe
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\csi.exe.config
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\csi.rsp
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.AppContext.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Console.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.IO.Compression.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Security.Claims.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.ValueTuple.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\vbc.exe
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\vbc.exe.config
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\vbc.rsp
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\VBCSCompiler.exe
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\obj\Debug\tbl.csproj.AssemblyReference.cache
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\obj\Debug\tbl.csproj.CoreCompileInputs.cache
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\obj\Debug\tbl.csproj.CopyComplete
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\obj\Debug\tbl.dll
+C:\Users\tranx\Downloads\tbl-20231220T142328Z-001\tbl\tbl\obj\Debug\tbl.pdb
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\tbl.dll.config
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\tbl.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\tbl.pdb
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\csc.exe
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\csc.exe.config
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\csc.rsp
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\csi.exe
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\csi.exe.config
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\csi.rsp
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.AppContext.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Console.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.IO.Compression.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Security.Claims.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.ValueTuple.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\vbc.exe
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\vbc.exe.config
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\vbc.rsp
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\VBCSCompiler.exe
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\obj\Debug\tbl.csproj.AssemblyReference.cache
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\obj\Debug\tbl.csproj.CoreCompileInputs.cache
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\obj\Debug\tbl.csproj.CopyComplete
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\obj\Debug\tbl.dll
+C:\Users\tranx\Documents\QuanLiwebThoiTrang\tbl\tbl\obj\Debug\tbl.pdb
+C:\Users\dn596\Downloads\tbl\tbl\bin\tbl.dll.config
+C:\Users\dn596\Downloads\tbl\tbl\bin\tbl.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\tbl.pdb
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\csc.exe
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\csc.exe.config
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\csc.rsp
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\csi.exe
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\csi.exe.config
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\csi.rsp
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.AppContext.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Console.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.IO.Compression.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Security.Claims.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.ValueTuple.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\vbc.exe
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\vbc.exe.config
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\vbc.rsp
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\VBCSCompiler.exe
+C:\Users\dn596\Downloads\tbl\tbl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dn596\Downloads\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dn596\Downloads\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dn596\Downloads\tbl\tbl\obj\Debug\tbl.csproj.AssemblyReference.cache
+C:\Users\dn596\Downloads\tbl\tbl\obj\Debug\tbl.csproj.CoreCompileInputs.cache
+C:\Users\dn596\Downloads\tbl\tbl\obj\Debug\tbl.dll
+C:\Users\dn596\Downloads\tbl\tbl\obj\Debug\tbl.pdb
+D:\tbl\tbl\bin\tbl.dll.config
+D:\tbl\tbl\bin\tbl.dll
+D:\tbl\tbl\bin\tbl.pdb
+D:\tbl\tbl\bin\roslyn\csc.exe
+D:\tbl\tbl\bin\roslyn\csc.exe.config
+D:\tbl\tbl\bin\roslyn\csc.rsp
+D:\tbl\tbl\bin\roslyn\csi.exe
+D:\tbl\tbl\bin\roslyn\csi.exe.config
+D:\tbl\tbl\bin\roslyn\csi.rsp
+D:\tbl\tbl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tbl\tbl\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\tbl\tbl\bin\roslyn\Microsoft.Managed.Core.targets
+D:\tbl\tbl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tbl\tbl\bin\roslyn\System.AppContext.dll
+D:\tbl\tbl\bin\roslyn\System.Collections.Immutable.dll
+D:\tbl\tbl\bin\roslyn\System.Console.dll
+D:\tbl\tbl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\tbl\tbl\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\tbl\tbl\bin\roslyn\System.IO.Compression.dll
+D:\tbl\tbl\bin\roslyn\System.IO.FileSystem.dll
+D:\tbl\tbl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\tbl\tbl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\tbl\tbl\bin\roslyn\System.IO.Pipes.dll
+D:\tbl\tbl\bin\roslyn\System.Reflection.Metadata.dll
+D:\tbl\tbl\bin\roslyn\System.Security.AccessControl.dll
+D:\tbl\tbl\bin\roslyn\System.Security.Claims.dll
+D:\tbl\tbl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\tbl\tbl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\tbl\tbl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\tbl\tbl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\tbl\tbl\bin\roslyn\System.Security.Principal.Windows.dll
+D:\tbl\tbl\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\tbl\tbl\bin\roslyn\System.ValueTuple.dll
+D:\tbl\tbl\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\tbl\tbl\bin\roslyn\System.Xml.XmlDocument.dll
+D:\tbl\tbl\bin\roslyn\System.Xml.XPath.dll
+D:\tbl\tbl\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\tbl\tbl\bin\roslyn\vbc.exe
+D:\tbl\tbl\bin\roslyn\vbc.exe.config
+D:\tbl\tbl\bin\roslyn\vbc.rsp
+D:\tbl\tbl\bin\roslyn\VBCSCompiler.exe
+D:\tbl\tbl\bin\roslyn\VBCSCompiler.exe.config
+D:\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tbl\tbl\obj\Debug\tbl.csproj.AssemblyReference.cache
+D:\tbl\tbl\obj\Debug\tbl.csproj.CoreCompileInputs.cache
+D:\tbl\tbl\obj\Debug\tbl.csproj.CopyComplete
+D:\tbl\tbl\obj\Debug\tbl.dll
+D:\tbl\tbl\obj\Debug\tbl.pdb
+D:\btlweb\tbl\tbl\bin\tbl.dll.config
+D:\btlweb\tbl\tbl\bin\tbl.dll
+D:\btlweb\tbl\tbl\bin\tbl.pdb
+D:\btlweb\tbl\tbl\bin\roslyn\csc.exe
+D:\btlweb\tbl\tbl\bin\roslyn\csc.exe.config
+D:\btlweb\tbl\tbl\bin\roslyn\csc.rsp
+D:\btlweb\tbl\tbl\bin\roslyn\csi.exe
+D:\btlweb\tbl\tbl\bin\roslyn\csi.exe.config
+D:\btlweb\tbl\tbl\bin\roslyn\csi.rsp
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.Managed.Core.targets
+D:\btlweb\tbl\tbl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\btlweb\tbl\tbl\bin\roslyn\System.AppContext.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Collections.Immutable.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Console.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.IO.Compression.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.IO.FileSystem.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.IO.Pipes.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Reflection.Metadata.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Security.AccessControl.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Security.Claims.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Security.Principal.Windows.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.ValueTuple.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Xml.XmlDocument.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Xml.XPath.dll
+D:\btlweb\tbl\tbl\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\btlweb\tbl\tbl\bin\roslyn\vbc.exe
+D:\btlweb\tbl\tbl\bin\roslyn\vbc.exe.config
+D:\btlweb\tbl\tbl\bin\roslyn\vbc.rsp
+D:\btlweb\tbl\tbl\bin\roslyn\VBCSCompiler.exe
+D:\btlweb\tbl\tbl\bin\roslyn\VBCSCompiler.exe.config
+D:\btlweb\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\btlweb\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\btlweb\tbl\tbl\obj\Debug\tbl.csproj.AssemblyReference.cache
+D:\btlweb\tbl\tbl\obj\Debug\tbl.csproj.CoreCompileInputs.cache
+D:\btlweb\tbl\tbl\obj\Debug\tbl.csproj.CopyComplete
+D:\btlweb\tbl\tbl\obj\Debug\tbl.dll
+D:\btlweb\tbl\tbl\obj\Debug\tbl.pdb
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\tbl.dll.config
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\tbl.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\tbl.pdb
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\csc.exe
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\csc.exe.config
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\csc.rsp
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\csi.exe
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\csi.exe.config
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\csi.rsp
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.AppContext.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Console.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.IO.Compression.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Security.Claims.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.ValueTuple.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\vbc.exe
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\vbc.exe.config
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\vbc.rsp
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\VBCSCompiler.exe
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\obj\Debug\tbl.csproj.AssemblyReference.cache
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\obj\Debug\tbl.csproj.CoreCompileInputs.cache
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\obj\Debug\tbl.csproj.CopyComplete
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\obj\Debug\tbl.dll
+C:\Users\dn596\OneDrive\Tài liệu\tbl\tbl\obj\Debug\tbl.pdb
+D:\LapTrinhWeb\tbl\tbl\bin\tbl.dll.config
+D:\LapTrinhWeb\tbl\tbl\bin\tbl.dll
+D:\LapTrinhWeb\tbl\tbl\bin\tbl.pdb
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\csc.exe
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\csc.exe.config
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\csc.rsp
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\csi.exe
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\csi.exe.config
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\csi.rsp
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.AppContext.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Collections.Immutable.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Console.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.IO.Compression.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.IO.FileSystem.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.IO.Pipes.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Reflection.Metadata.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Security.AccessControl.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Security.Claims.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.ValueTuple.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Xml.XPath.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\vbc.exe
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\vbc.exe.config
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\vbc.rsp
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\VBCSCompiler.exe
+D:\LapTrinhWeb\tbl\tbl\bin\roslyn\VBCSCompiler.exe.config
+D:\LapTrinhWeb\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LapTrinhWeb\tbl\tbl\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LapTrinhWeb\tbl\tbl\obj\Debug\tbl.csproj.AssemblyReference.cache
+D:\LapTrinhWeb\tbl\tbl\obj\Debug\tbl.csproj.CoreCompileInputs.cache
+D:\LapTrinhWeb\tbl\tbl\obj\Debug\tbl.csproj.CopyComplete
+D:\LapTrinhWeb\tbl\tbl\obj\Debug\tbl.dll
+D:\LapTrinhWeb\tbl\tbl\obj\Debug\tbl.pdb
+C:\Users\dn596\Downloads\tbl\tbl\obj\Debug\tbl.csproj.Up2Date
